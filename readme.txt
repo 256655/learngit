@@ -20,3 +20,4 @@ test 01
 
 test 02
 
+tag v1.2
