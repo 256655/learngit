@@ -1,4 +1,5 @@
 this is learn git
+git is a free software!
 first commit
 
 second commit
